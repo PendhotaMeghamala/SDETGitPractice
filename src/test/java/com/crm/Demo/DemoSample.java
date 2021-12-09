@@ -7,6 +7,7 @@ public class DemoSample {
 	public void demosample() {
 		System.out.println("Welcome to Github");
 		System.out.println("user 1 test Script 1");
+		System.out.println("user 2 modified sucessfully");
 		}
 
 }
